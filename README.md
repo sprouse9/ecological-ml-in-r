@@ -1,7 +1,4 @@
 # ecological-ml-in-r
-Collection of applied machine learning assignments from DSP 569: Data Science Applications in Biology
-
-# DSP 569 – Data Science Applications in Biology at URI
 
 This repository contains a collection of machine learning and data analysis assignments completed for  
 
